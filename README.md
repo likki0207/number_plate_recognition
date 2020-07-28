@@ -1,4 +1,4 @@
-# number_plate_recognition:
+# Number plate recognition:
 Detects license plate of car and recognizes its characters
 
 # Packages required:

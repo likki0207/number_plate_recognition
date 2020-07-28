@@ -24,7 +24,7 @@ while True:
             cv2.putText(img,"Number-plate",(x,y-5),
                         cv2.FONT_HERSHEY_COMPLEX_SMALL,1,color,2)
             imgRoi=img[y:y+h,x:x+w]
-            cv2.imshow("region of interest", imgRoi)
+            cv2.imshow("ROI", imgRoi)
             
     cv2.imshow("Result", img)
  

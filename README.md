@@ -1,6 +1,9 @@
 # Number plate recognition:
 Detects license plate of car and recognizes its characters
 
+# Flowchart
+
+
 # Packages required:
 -> opencv : OpenCV is a library of programming functions mainly aimed at real-time computer vision. Originally developed by Intel, 
 it was later supported by Willow Garage then Itseez. The library is cross-platform and free for use under the open-source BSD license.
